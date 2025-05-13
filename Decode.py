@@ -54,9 +54,6 @@ def printCharacters(url):
     for row in grid:
         print(''.join(row))
 
-url = 'https://docs.google.com/document/d/e/2PACX-1vQGUck9HIFCyezsrBSnmENk5ieJuYwpt7YHYEzeNJkIb9OSDdx-ov2nRNReKQyey-cwJOoEKUhLmN9z/pub'
-printCharacters(url)
-
 
 
 
